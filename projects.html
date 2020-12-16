@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="css/stylesheet.css">
+    <link rel="icon" href="http://www.isamilefchik.com/images/favicon.ico"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Isa Milefchik - Projects</title>
+
+</head>
+<body>
+
+<!-- ============= HEADER ============= -->
+    
+<span class="top-section">
+    <a class="titleWrapLink" href="index.html">
+        <span class="titleWrap">
+        <span id="title" class="title">_</span>
+        </span>
+    </a>
+
+    <span class="nav">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="reviews.html">Reviews</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </span>
+</span>
+
+<!-- ============= BODY ============= -->
+
+<span class="message">
+    
+    <!-- ============= Projects ============= -->
+    
+    <h1>Projects</h1>
+    <span class="header-line"></span>
+
+    <!-- ============= Generating Object Stamps ============= -->
+    <h2>Generating Object Stamps</h2>
+    <img src="images/generating-object-stamps.gif" style="width: 100%"></img>
+    <p>
+    Since the fall of 2019, I have been working in <a href="http://jamestompkin.com/">Prof. James Tompkin</a>'s lab attempting to improve upon the task of object generation within existing images. <a href="https://arxiv.org/abs/2001.02595">Previous work</a> on this project centered on the separation of mask and texture generation. This approach encouraged stronger shape inference as well as color harmonization of the generated objects within the target scene. My work on the project has mainly been focused on integrating additional guidance by the user on object shape. This includes experiments with conditioning the generative networks on pose information and depth maps, as well as training the network to produce a sum-of-gaussians representation as a prior for shape and texture generation.
+    </p>
+
+    <!-- ============= Stylizing Video by Example ============= -->
+    <h2>Stylizing Video by Example</h2>
+    <img src="images/stylizing-video-by-example.gif" style="width: 100%"></img>
+    <p>
+    For the final project of the course cs2240: Interactive Graphics, my group implemented <a href="https://dcgi.fel.cvut.cz/home/sykorad/ebsynth.html">"Stylizing Video by Example" by Jamriska et al</a>. The paper outlines a non-deep-learned approach to stylizing video frames based on style reference keyframes. This is achieved by computing a collection of guiding frames that are fed into the <a href="https://dcgi.fel.cvut.cz/home/sykorad/stylit">StyLit algorithm</a>. Included in these guides are style frames advected based on computed optical flow, edge-filtered video frames, and an advected "positional" guide. All together, this method of video stylization is relatively efficient and artistically flexible.
+    </p>
+    <p>
+    To extend the paper, we also implemented automatic style keyframe generation via neural style transfer. Based on the initial style keyframe, subsequent style keyframes are generated periodically throughout the video to guide output frames. This allows for mixing the ease of neural style transfer and the temporal stability of Jamriska et al.'s method.
+    </p>
+    <p>
+        <a href="https://github.com/ctrotz/stylizing-video">GitHub Project</a>
+    </p>
+    
+    <!-- ============= Shapee ============= -->
+    <h2>Shapee (reborn)</h2>
+    <img src="images/shapee.jpg" style="width:100%">
+    <p>
+        While reading Paul Lansky's lecture "<a href="https://paul.mycpanel.princeton.edu/lansky_beingdigital.pdf">The Importance of Being Digital</a>," I was amazed by an example presented of an audio plugin named "Shapee" that could map the timbral qualities of one source audio onto the frequency components of another. Lansky demonstrated how the pitches of Brahms's lullaby, performed by an orchestra, could be shaped by the timbral components of a choir singing Perotin. The transformation resulted in a convincing approximation of Brahms's lullaby sung by a choir.
+    </p>
+    <p>
+        Though I could not find the actual Shapee application online, I did find Christopher Penrose's paper "<a href="https://pdfs.semanticscholar.org/d272/a11b7e86da4cb5dae278b6d0a2cd42ab5115.pdf">Frequency Shaping of Audio Signals</a>," which proposes the method that Shapee is based on. From this paper, I implemented my own Shapee application in Go. The transformation is much like a vocoder, using the STFT of the two audio files as well as a user-defined number of DFT filters to compute a mixture of the signals.
+    </p>
+    <p>
+        <em>Orchestra performing Brahms's lullaby:</em>
+    </p>
+    <audio controls>
+    <source src="assets/shapee/brahms.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+    <p>
+        <em>Choir performing Perotin:</em>
+    </p>
+    <audio controls>
+    <source src="assets/shapee/perotin.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+    <p>
+        <em>Shapee (reborn)'s reproduction of Lansky's example:</em>
+    </p>
+    <audio controls>
+    <source src="assets/shapee/lanskyresult.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+    <p>
+        <a href="https://github.com/isamilefchik/shapee">GitHub Project</a>
+    </p>
+    
+    <!-- ============= Super Resolution Audio Stretch ============= -->
+    <h2>Super Resolution Audio Stretch (SRAS)</h2>
+    <img src="images/spectogram.jpg" style="width:100%">
+    <p>
+        The ability to time stretch audio while maintaining pitch is an important tool for sound designers, musicians, and for any situation where the timing of sound elements must be synchronized to some arbitrary guideline. The most popular algorithms used today are hand-designed to interpolate the missing pieces of the lengthened audio. The results can sometimes sound metallic or unnatural, especially when the audio is stretched substantially.
+    </p>
+    <p>
+        I am investigating whether a convolutional neural network could be of use in this audio manipulation problem. <a href="https://arxiv.org/abs/1708.00853">Audio super resolution</a> is a related task in which a higher sample rate is achieved through deep-learned manipulation of the low-resolution signal. I intend to apply the methods of audio super resolution to the task of time stretching primarily to produce higher quality time stretching, but also as a general audio experiment that may result in interesting transformations.
+    </p>
+    <p>
+        <a href="https://github.com/isamilefchik/super-resolution-audio-stretch">GitHub Project</a>
+    </p>
+    
+    <!-- ============= Website ============= -->
+    <h2>This Website</h2>
+    <img src="images/website.png" style="width:100%">
+    <p>
+        Responsive and well formatted on mobile devices!
+    </p>
+    <p>
+        <a href="https://github.com/isamilefchik/isamilefchik.com">GitHub Project</a>
+    </p>
+</span>
+
+<script src="scripts/animateTitle.js"></script>
+</body>
+</html>

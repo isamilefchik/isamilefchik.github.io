@@ -1,0 +1,422 @@
+1. the autopsy of jane doe (2016): 7.9/10
+2. kandahar (2001): 9.5/10
+3. the third man (1949): 10/10
+4. irreversible (2002): 9.4/10
+5. stalker (1979): 10/10
+6. solaris (1972): 10/10
+7. andrei rublev (1966): 10/10
+8. ivan's childhood (1962): 9.5/10
+9. tokyo story (1953): 10/10
+10. tape (2001): 8.7/10
+11. before sunrise (1995): 9.6/10
+12. before sunset (2004): 9.5/10
+13. before midnight (2013): 10/10
+14. the conjuring (2013): 7.6/10
+15. the conjuring 2 (2016): 6.9/10
+16. the witch (2015): 9.3/10
+17. the blair witch project (1999): 10/10
+18. the texas chainsaw massacre (1974): 7.6/10
+19. the prince of darkness (1987): 7.8/10
+20. enter the void (2009): 7.8/10
+21. lake mungo (2008): 7.7/10
+22. it comes at night (2017): 6.2/10
+23. silence (2016): 9.7/10
+24. chinatown (1974): 9.4/10
+25. the thin blue line (1988): 9.5/10
+26. hellraiser (1987): 4.7/10
+27. okja (2017): 6.3/10
+28. the shining (1980): 9.5/10
+29. pulse [kairo] (2001): 7.1/10
+30. mary poppins (1964): 8.9/10
+31. mahler (1974): 7.9/10
+32. scream (1996): 8.0/10
+33. ring [ringu] (1998): 9.3/10
+34. deliverance (1972): 7.8/10
+35. funny games (1997): 9.3/10
+36. hidden [cache] (2005): 10/10
+37. the seventh continent [der siebente kontinent] (1989): 8.4/10
+38. dunkirk (2017): 5.9/10
+39. baby driver (2017): 7.6/10
+40. rosemary's baby (1968): 8.9/10
+41. close-up [nema-ye nazdik] (1990): 10/10
+42. frailty (2002): 8.6/10
+43. scream 2 (1997): 7.7/10
+44. don't look now (1973): 7.9/10
+45. good time (2017): 9.0/10
+46. lost in translation (2003): 8.2/10
+47. ju-on: the grudge (2004): 6.9/10
+48. fifi howls from happiness (2013): 9.5/10
+49. ali: fear eats the soul (1974): 10/10
+50. annabelle: creation (2017): 8.0/10
+51. paris is burning (1990): 10/10
+52. the rules of the game (1939): 10/10
+53. it follows (2014): 8.9/10
+54. sicko (2007): 7.8/10
+55. snowpiercer (2013): 7.6/10
+56. the host (2006): 8.8/10
+57. memories of murder (2003): 10/10
+58. barking dogs never bite (2000): 8.7/10
+59. black swan (2010): 8.5/10
+60. it (2017): 6.8/10
+61. bowling for columbine: 9.0/10
+62. phone (2002): 8.6/10
+63. jigsaw (2017): 4.5/10
+64. lady bird (2017): 9.5/10
+65. la haine (1995): 9.7/10
+66. paris, texas (1984): 9.0/10
+67. the double life of veronique (1991): 10/10
+68. the sacrifice (1986): 10/10
+69. the boss baby (2017): 7.9/10
+70. barbershop: the next cut (2016): 7.8/10
+71. wind river (2017): 8.3/10
+72. moana (2016): 7.0/10
+73. happy end (2017): 9.2/10
+74. train to busan (2016): 5.6/10
+75. mother (2017): 4.9/10
+76. phantom thread (2017): 10/10
+77. blue (1993): 10/10
+78. the square (2017): 6.0/10
+79. le havre (2011): 8.6/10
+80. three billboards outside ebbing, missouri (2017): 6.9/10
+81. i, tonya (2017): 8.0/10
+82. super dark times (2017): 9.1/10
+83. elephant (2003): 10/10
+84. naked (1993): 10/10
+85. dead ringers (1988): 10/10
+86. battle of the sexes (2017): 7.2/10
+87. logan lucky (2017): 8.2/10
+88. i am not your negro (2017): 8.7/10
+89. memento (2000): 9.7/10
+90. winchester (2018): 7.0/10
+91. bug (2006): 9.6/10
+92. ichi the killer (2001): 7.0/10
+93. a question of silence (1982): 9.5/10
+94. his girl friday (1940): 9.5/10
+95. 13th (2016): 10/10
+96. black girl (1966): 10/10
+97. three burials of melquiades estrada (2005): 7.1/10
+98. wes craven's new nightmare (1994): 7.9/10
+99. annihilation (2018): 7.2/10
+100. bamako (2006): 10/10
+101. the strangers: prey at night (2018): 7.0/10
+102. the battle of algiers (1967): 10/10
+103. superbad (2007): 10/10
+104. raw (2017): 8.4/10
+105. night of the hunter (1955): 10/10
+106. v/h/s/2 (2013): 6.9/10
+107. catfish (2010): 10/10
+108. isle of dogs (2018): 6.8/10
+109. the hallow (2015): 6.9/10
+110. velvet goldmine (1999): 9.0/10
+111. the devil wears prada (2006): 8.1/10
+112. opening night (1977): 9.3/10
+113. a quiet place (2018): 8.7/10
+114. you were never really here (2017): 10/10
+115. blade runner 2049 (2017): 9.2/10
+116. we need to talk about kevin (2011): 9.8/10
+117. the death of stalin (2017): 7.1/10
+118. symbiopsychotaxiplasm: take one (1967): 10/10
+119. first reformed (2018): 9.0/10
+120. hereditary (2018): 10/10
+121. incredibles 2 (2018): 8.6/10
+122. won't you be my neighbor (2018): 6.5/10
+123. eighth grade (2018): 10/10
+124. thesis [tesis] (1996): 9.1/10
+125. dark water (2002): 9.0/10
+126. scooby-doo (2002): 9.5/10
+127. ghost stories (2017): 6.6/10
+128. sorry to bother you (2018): 9.4/10
+129. re-animator (1985): 9.5/10
+130. repo man (1984): 10/10
+131. the hitcher (1986): 1.5/10
+132. the purge: anarchy (2014): 6.9/10
+133. the purge: election year (2016): 7.2/10
+134. friday the 13th: part 2 (1981): 6.8/10
+135. pin (1988): 9.3/10
+136. blockers (2018): 6.8/10
+137. the devil's rejects (2005): 0.2/10
+138. thoroughbreds (2017): 8.1/10
+139. the master (2012): 10/10
+140. the pit (2009): 8.8/10
+141. the belko experiment (2016): 4.8/10
+142. another year (2010): 9.3/10
+143. the nun (2018): 6.0/10
+144. assassination nation (2018): 10/10
+145. personal shopper (2017): 9.7/10
+146. mid90s (2018): 8.7/10
+147. killing of a sacred deer (2017): 8.2/10
+148. goosebumps 2 (2018): 7.0/10
+149. halloween (2018): 8.9/10
+150. 14 cameras (2018): 5.3/10
+151. haunters: the art of the scare (2017): 9.5/10
+152. i.k.u. (2001): 9.0/10
+153. twilight (2008): 7.5/10
+154. suspiria (2018): 8.8/10
+155. eXistenZ (1999): 10/10
+156. the favourite (2018): 8.0/10
+157. best in show (2000): 9.0/10
+158. skyscraper (2018): 5.5/10
+159. wall street (1987): 8.5/10
+160. the house that jack built (2018): 8.0/10
+161. summer of 84 (2018): 3.4/10
+162. bird box (2018): 2.0/10
+163. candyman (1992): 9.7/10
+164. wendigo (2001): 10/10
+165. the last winter (2006): 10/10
+166. funhouse (1981): 6.3/10
+167. the fog (1980): 9.0/10
+168. hell fest (2018): 7.8/10
+169. cam (2018): 8.0/10
+170. american animals (2018): 8.1/10
+171. a nightmare on elm street 3: dream warriors (1987): 8.5/10
+172. habit (1995): 10/10
+173. midnight meat train (2008): 7.7/10
+174. goodnight mommy (2015): 10/10
+175. henry: portrait of a serial killer (1986): 8.5/10
+176. if beale street could talk (2018): 8.2/10
+177. escape room (2019): 7.2/10
+178. shoplifters (2018): 10/10
+179. cold war (2018): 5.0/10
+180. grease (1978): 10/10
+181. madeline's madeline (2018): 9.6/10
+182. saturday night fever (1977): 10/10
+183. apollo 11 (2019): 9.1/10
+184. capernaum (2018): 7.7/10
+185. us (2019): 6.8/10
+186. get out (2017): 9.6/10
+187. crazy rich asians (2018): 7.1/10
+188. bad times at the el royale (2018): 0.3/10
+189. elle (2016): 9.0/10
+190. climax (2018): 8.8/10
+191. mean girls (2004): 10/10
+192. detective chinatown 2 (2018): 5.5/10
+193. pokemon: detective pikachu (2019): 9.7/10
+194. permanent green light (2018): 8.4/10
+195. pet sematary (1989): 5.1/10
+196. three... extremes (2004): 8.1/10
+197. sinister (2012): 8.6/10
+198. inside [a l'interieur] (2007): 8.8/10
+199. safe (1995): 10/10
+200. booksmart (2019): 6.7/10
+201. child's play (2019): 9.7/10
+202. thir13en ghosts (2001): 7.0/10
+203. midsommar (2019): 10/10
+204. crawl (2019): 7.8/10
+205. spider-man: into the spider-verse (2018): 8.3/10
+206. the fourth kind (2009): 5.3/10
+207. halloween ii (1981): 8.0/10
+208. cronos (1993): 9.2/10
+209. john wick 2 (2017): 8.6/10
+210. john wick 3 (2019): 9.0/10
+211. the tenant (1976): 10/10
+212. once upon a time in hollywood (2019): 8.9/10
+213. the omen (1976): 9.1/10
+214. shutter (2004): 9.7/10
+215. point break (1991): 9.1/10
+216. the lobster (2015): 8.8/10
+217. gates of heaven (1978): 8.6/10
+218. slacker (1990): 9.0/10
+219. summer wars (2009): 7.4/10
+220. 1922 (2017): 7.1/10
+221. it: chapter two (2019): 2.2/10
+222. the pervert's guide to cinema (2006): 8.6/10
+223. ad astra (2019): 8.9/10
+224. cabin fever (2002): 1.0/10
+225. one cut of the dead (2017): 10/10
+226. joker (2019): 0.0/10
+227. parasite (2019): 9.6/10
+228. the evil dead (1981): 10/10
+229. a nightmare on elm street (2010): 6.2/10
+230. the irishman (2019): 10/10
+231. spring breakers (2012): 8.3/10
+232. pain and glory (2019): 8.8/10
+233. angst (1983): 8.0/10
+234. uncut gems (2019): 10/10
+235. synonyms (2019): 9.0/10
+236. ready or not (2019): 8.2/10
+237. knives out (2019): 8.0/10
+238. game night (2018): 7.0/10
+239. good boys (2019): 5.6/10
+240. marriage story (2019): 8.5/10
+241. vice (2018): 4.8/10
+242. dead don't die (2019): 7.0/10
+243. broadway danny rose (1984): 6.9/10
+244. the point (1971): 7.8/10
+245. magic (1978): 8.4/10
+246. little women (2019): 8.7/10
+247. castle freak (1995): 6.8/10
+248. next of kin (1982): 8.0/10
+249. dogtooth (2009): 7.7/10
+250. deep red (1975): 7.3/10
+251. demons (1985): 8.4/10
+252. a tale of two sisters (2003): 8.4/10
+253. maggie (2018): 8.3/10
+254. the cow (1969): 10/10
+255. my bloody valentine (1981): 10/10
+256. escape from new york (1981): 10/10
+257. annabelle comes home (2019): 7.4/10
+258. to all the boys i've loved before (2018): 10/10
+259. to all the boys: p.s. i still love you (2020): 9.3/10
+260. paper moon (1973): 9.0/10
+261. in the house (2012): 6.5/10
+262. ginger snaps (2000): 10/10
+263. ginger snaps 2: unleashed (2004): 6.7/10
+264. fat girl (2001): 10/10
+265. wake in fright (1971): 10/10
+266. on the waterfront (1954): 9.1/10
+267. the social network (2010): 9.2/10
+268. the invisible man (2020): 8.6/10
+269. them (2006): 7.6/10
+270. the reef (2010): 8.8/10
+271. the place beyond the pines (2012): 8.6/10
+272. stranger by the lake (2013): 8.9/10
+273. exotica (1994): 10/10
+274. repulsion (1965): 7.0/10
+275. targets (1968): 10/10
+276. the exterminating angel (1962): 10/10
+277. underwater (2020): 5.8/10
+278. the brood (1979): 7.6/10
+279. creepshow (1982): 8.1/10
+280. unfriended (2014): 10/10
+281. unfriended: dark web (2018): 8.8/10
+282. tfw no gf (2020): 9.0/10
+283. blood quantum (2019): 6.3/10
+284. sunset boulevard (1950): 10/10
+285. some like it hot (1959): 10/10
+286. my uncle boonmee who can recall his past lives (2010): 8.6/10
+287. secrets and lies (1996): 10/10
+288. blood and black lace (1964): 6.5/10
+289. rome, open city (1945): 8.0/10
+290. amarcord (1973): 9.2/10
+291. cria cuervos (1976): 10/10
+292. only angels have wings (1939): 8.3/10
+293. zodiac (2007): 9.0/10
+294. the game (1997): 6.9/10
+295. in a lonely place (1950): 6.8/10
+296. the naked city (1948): 9.8/10
+297. the vast of night (2020): 8.5/10
+298. brute force (1947): 8.8/10
+299. touch of evil (1958): 8.9/10
+300. kiss me deadly (1955): 10/10
+301. the lodge (2019): 3.0/10
+302. hell house llc (2016): 8.6/10
+303. jack frost (1997): 8.7/10
+304. da 5 bloods (2020): 9.1/10
+305. clueless (1995): 8.5/10
+306. 10 things i hate about you (1999): 9.0/10
+307. mysterious skin (2004): 10/10
+308. phoenix (2014): 8.3/10
+309. yella (2007): 9.2/10
+310. chinese roulette (1976): 7.6/10
+311. demon (2015): 9.6/10
+312. hollywood shuffle (1987): 10/10
+313. happy go lucky (2008): 10/10
+314. relic (2020): 6.2/10
+315. l'enfant (2005): 9.1/10
+316. 1917 (2019): 8.0/10
+317. body double (1984): 9.3/10
+318. blue collar (1978): 10/10
+319. deep blue sea 3 (2020): 7.4/10
+320. manchester by the sea (2016): 10/10
+321. ford v ferrari (2019): 0.6/10
+322. a moment of innocence (1996): 10/10
+323. silent hill (2006): 6.9/10
+324. spree (2020): 7.4/10
+325. short cuts (1993): 9.8/10
+326. roger and me (1989): 9.5/10
+327. the parallax view (1974): 8.8/10
+328. tiny furniture (2010): 8.4/10
+329. kill list (2011): 7.5/10
+330. rio bravo (1959): 9.4/10
+331. they (2002): 7.2/10
+332. monsieur klein (1976): 10/10
+333. king of new york (1990): 10/10
+334. ms .45 (1981): 10/10
+335. the eiger sanction (1975): 7.8/10
+336. my night at maud's (1969): 9.2/10
+337. cure (1997): 10/10
+338. im thinking of ending things (2020): 10/10
+339. diva (1981): 8.4/10
+340. christine (1983): 10/10
+341. my soul to take (2010): 8.8/10
+342. eastern promises (2007): 8.7/10
+343. manhunter (1986): 8.9/10
+344. holy motors (2012): 4.8/10
+345. donnie darko [theatrical cut] (2001): 10/10
+346. after hours (1985): 10/10
+347. modern romance (1981): 9.3/10
+348. bad lieutenant (1992): 10/10
+349. nocturama (2016): 10/10
+350. hollow man (2000): 9.8/10
+351. a simple plan (1998): 6.0/10
+352. gun crazy (1950): 10/10
+353. neon demon (2016): 8.8/10
+354. ghostbox cowboy (2018): 10/10
+355. total recall (1990): 10/10
+356. wild at heart (1990): 10/10
+357. the babysitter (2017): 5.7/10
+358. wrong turn (2003): 8.9/10
+359. the killers (1946): 8.9/10
+360. river's edge (1986): 9.8/10
+361. the people under the stairs (1991): 7.0/10
+362. final destination (2000): 8.6/10
+363. august in the water (1995): 9.2/10
+364. mute witness (1995): 8.8/10
+365. they shoot horses don't they? (1969): 10/10
+366. hubie halloween (2020): 5.1/10
+367. 12 monkeys (1995): 8.7/10
+368. the loved ones (2009): 9.6/10
+369. ghost world (2001): 10/10
+370. halloween (1978): 10/10
+371. let's scare jessica to death (1971): 8.7/10
+372. lost in america (1985): 9.4/10
+373. dragon inn (1967): 10/10
+374. the wolf of snow hollow (2020): 5.0/10
+375. wobble palace (2018): 10/10
+376. election (1999): 8.9/10
+377. wolf creek (2005): 10/10
+378. the exorcist iii (1990):8.1/10
+379. borat subsequent moviefilm (2020): 2.9/10
+380. the descent (2005): 10/10
+381. eyes without a face (1960): 10/10
+382. eyes wide shut (1999): 10/10
+383. dressed to kill (1980): 5.9/10
+384. zombi child (2019): 8.3/10
+385. the babysitter: killer queen (2020): 2.1/10
+386. playtime (1967): 10/10
+387. trick 'r treat (2007): 7.0/10
+388. insiang (1976): 9.5/10
+389. black christmas (1974): 10/10
+390. host (2020): 8.9/10
+391. creep 2 (2017): 7.5/10
+392. the abyss (1989): 8.0/10
+393. possessor (2020): 8.2/10
+394. a wonderful cloud (2015): 9.0/10
+395. the color wheel (2011): 7.1/10
+396. insidious (2010): 9.1/10
+397. california split (1974): 8.6/10
+398. heathers (1988): 9.3/10
+399. supermarket (1974): 8.3/10
+400. holidate (2020): 6.1/10
+401. her smell (2018): 7.7/10
+402. bad trip (2020): 10/10
+403. smiley face (2007): 9.5/10
+404. blackhat (2015): 8.8/10
+405. out of the blue (1980): 7.9/10
+406. before we vanish (2017): 7.4/10
+407. christmas again (2014): 7.6/10
+408. but i'm a cheerleader (1999): 8.8/10
+409. bacurau (2020): 6.1/10
+410. martin (1978): 9.2/10
+411. punch drunk love (2002): 10/10
+412. gold diggers of 1933 (1933): 8.7/10
+413. the cook, the thief, his wife & her lover (1989): 9.7/10
+414. blow out (1981): 10/10
+415. tenet (2020): 0.1/10
+416. happiest season (2020): 7.6/10
+417. nerve (2016): 8.5/10
+418. run (2020): 7.7/10
+419. hypernormalisation (2016): 10/10
+420. basic instinct (1992): 9.2/10
+421. dark waters (2019): 7.0/10
+422. freaky (2020): 8.8/10
