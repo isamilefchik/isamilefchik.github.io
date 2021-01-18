@@ -1,16 +1,20 @@
 @font-face {
-  font-family: VeraMono;
-  src: url(/assets/VeraMono.ttf);
+    font-family: VeraMono;
+    src: url(/assets/VeraMono.ttf);
 }
 
 @font-face {
     font-family: MySerif;
-    src: url(/assets/LinguisticsPro-Regular.otf);
+    src: url(/assets/Latin-Modern-Roman/lmroman10-regular.otf);
+}
+@font-face {
+    font-family: MySerifBold;
+    src: url(/assets/linux-biolinum/LinBiolinum_RB.otf);
 }
 
 @font-face {
     font-family: Titles;
-    src: url(/assets/Gaegu-Regular.ttf);
+    src: url(/assets/linux-biolinum/LinBiolinum_R.otf);
 }
 
 body {
