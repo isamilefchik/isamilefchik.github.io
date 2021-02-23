@@ -58,7 +58,7 @@
 58. barking dogs never bite (2000): 8.7/10
 59. black swan (2010): 8.5/10
 60. it (2017): 6.8/10
-61. bowling for columbine: 9.0/10
+61. bowling for columbine (2002): 9.0/10
 62. phone (2002): 8.6/10
 63. jigsaw (2017): 4.5/10
 64. lady bird (2017): 9.5/10
@@ -375,7 +375,7 @@
 375. wobble palace (2018): 10/10
 376. election (1999): 8.9/10
 377. wolf creek (2005): 10/10
-378. the exorcist iii (1990):8.1/10
+378. the exorcist iii (1990): 8.1/10
 379. borat subsequent moviefilm (2020): 2.9/10
 380. the descent (2005): 10/10
 381. eyes without a face (1960): 10/10
@@ -420,3 +420,83 @@
 420. basic instinct (1992): 9.2/10
 421. dark waters (2019): 7.0/10
 422. freaky (2020): 8.8/10
+423. unbreakable (2000): 8.6/10
+424. shadows (1959): 10/10
+425. wargames (1983): 8.7/10
+426. i walked with a zombie (1943): 10/10
+427. the young girls of rochefort (1967): 7.6/10
+428. die hard (1988): 10/10
+429. die hard with a vengeance (1995): 9.5/10
+430. bringing out the dead (1999): 10/10
+431. the celebration [festen] (1998): 10/10
+432. krampus (2015): 7.1/10
+433. the rules of attraction (2002): 8.4/10
+434. carol (2015): 10/10
+435. under the silver lake (2018): 8.7/10
+436. oculus (2013): 6.9/10
+437. 'r xmas (2001): 8.8/10
+438. carnival of souls (1962): 10/10
+439. splatter: naked blood (1996): 9.3/10
+440. they live (1988): 9.1/10
+441. mon oncle (1958): 10/10
+442. gosford park (2001): 9.6/10
+443. elephant (1989): 10/10
+444. christine (1987): 10/10
+445. cruel intentions (1999): 3.9/10
+446. kidnapped (2010): 7.0/10
+447. soul (2020): 10/10
+448. thief (1981): 8.9/10
+449. evil dead (2013): 8.8/10
+450. happiness (1998): 7.6/10
+451. lola montes (1955): 7.5/10
+452. the american friend [der amerikanische freund] (1977): 9.5/10
+453. johnny mnemonic (1995): 9.3/10
+454. ghost in the shell (1995): 10/10
+455. the addiction (1995): 7.1/10
+456. the son [le fils] (2002): 10/10
+457. rashomon (1950): 10/10
+458. my winnipeg (2007): 10/10
+459. white heat (1949): 10/10
+460. run hide fight (2021): 5.4/10
+461. frankenstein (1931): 8.2/10
+462. ghostwatch (1992): 7.2/10
+463. may (2002): 10/10
+464. near dark (1987): 7.1/10
+465. the ring (2002): 8.3/10
+466. lolita (1962): 10/10
+467. the hunt [jagten] (2012): 10/10
+468. high tension [haute tension] (2003): 2.9/10
+469. martyrs (2008): 10/10
+470. #alive [#saraitda] (2020): 5.8/10
+471. cosmopolis (2012): 7.6/10
+472. crash (1996): 10/10
+473. a history of violence (2005): 9.4/10
+474. happy death day (2017): 9.0/10
+475. happy death day 2u (2019): 8.2/10
+476. ready player one (2018): 8.3/10
+477. southland tales (2006): 5.0/10
+478. assholes (2017): 7.2/10
+479. bully (2001): 10/10
+480. kids (1995): 10/10
+481. saint maud (2019): 2.2/10
+482. portrait of a lady on fire (2019): 10/10
+483. spontaneous (2020): 9.1/10
+484. promising young woman (2021): 1.8/10
+485. the king of comedy (1982): 9.7/10
+486. love exposure (2008): 8.7/10
+487. beau travail (1999): 9.3/10
+488. picnic at hanging rock (1975): 8.2/10
+489. demonlover (2002): 10/10
+490. barry lyndon (1975): 10/10
+491. 25th hour (2002): 9.3/10
+492. the slumber party massacre (1982): 6.8/10
+493. wrong turn (2021): 1.6/10
+494. book of shadows: blair witch 2 (2000): 5.7/10
+495. wrong turn 2: dead end (2007): 7.5/10
+496. margaret (2011): 10/10
+497. come and see (1985): 10/10
+498. her (2013): 10/10
+499. seed of chucky (2004): 8.6/10
+500. my own private idaho (1991): 10/10
+501. scanners (1981): 9.0/10
+502. the inquisitor (1981): 7.9/10
