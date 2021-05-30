@@ -223,7 +223,7 @@
 223. ad astra (2019): 8.9/10
 224. cabin fever (2002): 1.0/10
 225. one cut of the dead (2017): 10/10
-226. joker (2019): 0.0/10
+226. joker (2019): 7.2/10
 227. parasite (2019): 9.6/10
 228. the evil dead (1981): 10/10
 229. a nightmare on elm street (2010): 6.2/10
@@ -564,3 +564,49 @@
 564. starship troopers (1997): 8.6/10
 565. pitch black (2000): 7.2/10
 566. demons (1971): 10/10
+567. showgirls (1995): 9.8/10
+568. kwaidan (1964): 7.3/10
+569. kisapmata (1981): 10/10
+570. the phantom carriage (1921): 8.1/10
+571. the innocents (1961): 9.0/10
+572. jennifer's body (2009): 10/10
+573. bitter lake (2015): 9.0/10
+574. robocop (1987): 10/10
+575. we're all going to the world's fair (2020): 9.8/10
+576. duel (1971): 9.1/10
+577. eraserhead (1977): 8.9/10
+578. jaws (1975): 10/10
+579. slender man (2018): 3.4/10
+580. the call (2020): 4.1/10
+581. house at the end of the street (2012): 7.3/10
+582. vampyr (1932): 10/10
+583. tetsuo: the iron man (1989): 8.6/10
+584. society (1989): 8.8/10
+585. mainstream (2020): 0.1/10
+586. antichrist (2009): 9.6/10
+587. freaks (1932): 10/10
+588. undine (2020): 10/10
+589. rumble in the bronx (1995): 8.6/10
+590. house of wax (1953): 7.7/10
+591. house of wax (2005): 9.8/10
+592. basket case (1982): 6.1/10
+593. invasion of the body snatchers (1956): 6.4/10
+594. invasion of the body snatchers (1978): 7.5/10
+595. casino (1995): 8.0/10
+596. peeping tom (1960): 10/10
+597. the crazies (1973): 4.9/10
+598. versus (2000): 7.9/10
+599. ace in the hole (1951): 10/10
+600. dawn of the dead (1978): 8.8/10
+601. profile (2018): 7.2/10
+602. to die for (1995): 7.6/10
+603. french exit (2020): 7.0/10
+604. spiral: from the book of saw (2021): 6.5/10
+605. threads (1984): 10/10
+606. school on fire (1988): 8.9/10
+607. panic in the streets (1950): 7.1/10
+608. nightfall (1956): 10/10
+609. sisters (1972): 8.7/10
+610. career girls (1997): 10/10
+611. police story (1985): 7.3/10
+612. a quiet place part ii (2020): 3.7/10
