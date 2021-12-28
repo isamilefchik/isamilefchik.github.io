@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="css/stylesheet.css">
     <link rel="icon" href="http://www.isamilefchik.com/images/favicon.ico"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
     <title>Isa Milefchik - Home</title>
 </head>
 <body>
@@ -37,16 +38,10 @@
     </p>
 
 <span class="objectWindowContainer">
-    <span class="objectWindow" id="objectWindow">
-        <script src="scripts/three.js"></script>
-        <script src="scripts/LoaderSupport.js"></script>
-        <script src="scripts/OBJLoader.js"></script>
-        <script src="scripts/OrbitControls.js"></script>
-        <script src="scripts/renderObjectWindow.js"></script>
-    </span>
+    <model-viewer class="objectWindow" id="objectWindow" alt="Teacup reconstruction" src="assets/teacup.glb" ar ar-modes="webxr scene-viewer quick-look" camera-orbit="80deg 90deg 105%" camera-controls></model-viewer>
 </span>
     <p>
-    Figure 1: An interactable <a href="https://github.com/flanggut/smvs">SMVS</a> rendering of a teacup generated from pictures I took using my phone.
+    Figure 1: An interactable <a href="https://developer.apple.com/augmented-reality/object-capture/">Apple Object Capture</a> reconstruction of my favorite teacup.
     </p>
 </span>
 <script src="scripts/animateTitle.js"></script>

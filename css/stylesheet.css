@@ -141,10 +141,15 @@ body {
     display: block;
     width: 100%;
     margin: auto;
+    text-align: center;
 }
 
 .objectWindow {
+    width: 100%;
+    height: 30vw;
     display: block;
+    --poster-color: #e0eaff;
+    margin: auto;
 }
 
 @media screen and (max-width: 600px) {
@@ -228,5 +233,7 @@ body {
         width: 100%;
         display: block;
     }
-    
+    .objectWindow {
+        height: 50vw;
+    }
 }
